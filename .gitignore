@@ -1,13 +1,24 @@
-# Java compiled files
+# Ignore compiled class files
 *.class
 
-# Build directories
+# Ignore build directories
 /bin/
 /out/
 
-# IDE/editor settings
+# Ignore IDE and editor settings
 .vscode/
 .idea/
+*.iml
 
-# macOS system junk
+# Ignore macOS system files
 .DS_Store
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore packaged archives
+*.jar
+*.war
+*.ear
+
