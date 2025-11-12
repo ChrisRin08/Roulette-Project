@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+
+# Build directories
+/bin/
+/out/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# macOS system junk
+.DS_Store
